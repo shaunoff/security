@@ -1,0 +1,6 @@
+export const FETCH_CONTROLS = "FETCH_CONTROLS";
+export const FETCH_POLICIES = "FETCH_POLICIES";
+
+export const UPDATE_CONTROL = "UPDATE_CONTROL"
+
+export const ADD_EVIDENCE = "ADD_EVIDENCE"

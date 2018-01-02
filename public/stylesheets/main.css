@@ -1,0 +1,16 @@
+
+
+body {
+  background-color: #F2F5FB;
+}
+.sidebar .navlink {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  color: white !important;
+  text-decoration: none;
+}
+.sidebar .navlink.selected {
+  color: #6bada7 !important;
+  border-right: #6bada7 4px solid
+}
