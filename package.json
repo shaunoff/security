@@ -1,11 +1,3 @@
-/* "scripts": {
-    "start": "webpack -w & nodemon index.js -e js,html --watch",
-    "seed": "node seed",
-    "db-init": "pg-init auth",
-    "postinstall": "npm run db-init"
-  }, */
-
-
 {
   "name": "auther",
   "version": "1.0.0",
