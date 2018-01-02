@@ -4,10 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "index.js",
-    "seed": "node seed",
-    "db-init": "pg-init auth",
-    "postinstall": "npm run db-init"
+    "start": "index.js"
   },
   "engines": {
     "node": "8.2.1",
